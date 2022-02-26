@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commune concilium tentum in camera Guild-hall, civitatis London, tricesimo primo Augusti, anno Regni Domini nostri, Jacobi nunc Regis, Angliæ, Franciæ, &amp; Hibern. fidei defensor. &amp;c. decimo nono Coram Francisco Jones milite, Majore Civitat. London, ... Forasmuch as the due execution of the place and office of constable hath of late beene more neglected then heretofore, ...</title>
+            <title>Acts &amp; Orders. 1621-08-31</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72796</idno>
+            <idno type="STC">STC 16737.7</idno>
+            <idno type="STC">ESTC S125097</idno>
+            <idno type="EEBO-CITATION">99900369</idno>
+            <idno type="PROQUEST">99900369</idno>
+            <idno type="VID">151050</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151050)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1997:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commune concilium tentum in camera Guild-hall, civitatis London, tricesimo primo Augusti, anno Regni Domini nostri, Jacobi nunc Regis, Angliæ, Franciæ, &amp; Hibern. fidei defensor. &amp;c. decimo nono Coram Francisco Jones milite, Majore Civitat. London, ... Forasmuch as the due execution of the place and office of constable hath of late beene more neglected then heretofore, ...</title>
+                  <title>Acts &amp; Orders. 1621-08-31</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>Jones, Francis</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by Robert Young, printer to the Honourable Citie of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>anno Dom. 1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Order regarding the election of constables. 31 Aug. 1621--STC.</note>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Steele notation: Con-  to  2) allow-  serue.</note>
+                  <note>Reproduction of original in the Guildhall Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Constables --  Elections --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="document">
+            <pb facs="tcp:151050:2" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon (of the House of Stuart)</figDesc>
+               </figure>
+            </head>
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure>
+            </head>
+            <head>Commune Concilium tentum in Camera Guild-hall, Civitatis London, triceſimo primo die Auguſti, anno Regni Domini noſtri, JACOBI nunc Regis, Angliae, Franciae, &amp; Hibern. Fidei Defenſor. &amp;c. decimo nono. Coram Franciſco Jones milite, Majore Civitat. London, Heanagio Finch Armigero, Recordatore ejuſdem Civitat Thoma Bennet milite, Thoma Low milite Johanne Leman <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Alexandro, Preſcot, Martino Lumley, Willielmo Gore, Willielmo Holliday, Hugone Hamarſly, Jacobo Cambel, &amp; Nicholas Aldermannis, ac Edwardo Allen, &amp; Roberto Ducy Aldermannis, &amp; Vicecomit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Civitatis <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> majori parte Com<g ref="char:EOLhyphen"/>mun<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Civitatis exiſtent. aſſemblant. &amp;c.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>Oraſmuch as the due execution of the place and Office of</hi> Con<g ref="char:EOLhyphen"/>ſtable hath of late beene more neglected then heretofore, aſwell for that by reaſon that men of ability and the better ſort, are for ſmall fines diſ<g ref="char:EOLhyphen"/>charged of that ſeruice: as alſo for that ſuch as are Conſtables are not ready to be found, and many times turn the ſeruices which themſelues ought to performe, to inferiour miniſters.</p>
+            <p>For reformation whereof, and for the better direction and ordering of the election of Conſtables within this Citie and Liberties, and Sub<g ref="char:EOLhyphen"/>urbs thereof, It is ordained and enacted by the right Honourable the Lord Maior, and the right Worſhipfull the Aldermen his Brethren, and the Commons in this common Councell aſſembled, and by the au<g ref="char:EOLhyphen"/>thority of the ſame, That no perſon ſhall be from henceforth freed or ex<g ref="char:EOLhyphen"/>empted from bearing the Office of Conſtable within any the precincts of this City, or the Liberties therof, if he be thereunto duly elected (ex<g ref="char:EOLhyphen"/>cept Strangers born, and ſuch as by the Lawes of this Land ought to be exempted bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall vndergo and ſerue the ſame Office in his own perſon, and ſhall be ſworne for the due execution thereof. Neuertheleſſe, if any perſon hereafter to be choſen Conſtable, ſhall after ſuch Oath taken, make known to the Alderman of the Ward, within which precinct he ſhall be choſen Conſtable for the time being, or to the Deputie or Deputies, and common Councell of the ſame Ward, That he is not able to execute the ſame, in regard of age, or weakneſſe of body, or by reaſon of ſome neceſſary affaires beyond the Seas, or other occaſion: and that they, or the greater number of them, ſhall allow of ſuch cauſe: If then ſuch perſon ſo elected ſhall procure a fit perſon, ſuch as ſhall be allowed and approued of by ſuch Alderman, Deputy or Deputies, and common Councell of ſuch Ward, or the grea<g ref="char:EOLhyphen"/>ter number of them, to ſerue him, and as his deputie in the Office of Conſtable, then ſuch perſon ſo to be pro<g ref="char:EOLhyphen"/>cured, ſhall be admitted and ſworne to ſerue the ſame place and Office.</p>
+            <p>And it is further enacted by the Authoritie aforeſaid, That euery Conſtable or his deputie to be allow<g ref="char:EOLhyphen"/>ed and ſworne as aforeſaid, ſhall watch in his owne perſon as his turne or watch night commeth about, and ſhall not put in his place the Beadle of the Ward, or ſome one of the watch-men, as hath too commonly been accuſtomed, except ſuch Conſtable or deputie ſhall be then ſick, or hindered or letted by any reaſonable or lawfull cauſe.</p>
+            <p>And for that the Ward of <hi>Faringdon</hi> without is very ſpacious, and many dangerous &amp; ſuſpected perſons inhabite, lodge, and reſort thither, It is therefore ordained and enacted by the authority aforeſaid, That the ſixteen Conſtables of the ſaid Ward, ſhall by two in a night (within their precincts) watch in ſeuerall places of the ſaid ward, <hi>viz:</hi> One on S. <hi>Sepulchres</hi> ſide, and the other on <hi>Fleetſtreet</hi> ſide. And that the ſeuerall Deputies of the ſeuerall wards may haue, from the Chamber of <hi>London,</hi> printed Paſports to be delivered to the ſeue<g ref="char:EOLhyphen"/>rall Conſtables or their deputies, as cauſe ſhall require, to paſſe and ſend away ſuch rogues and vagrants as appeare not to be incorrigible, from Conſtable to Conſtable, to the proper place of their abode, according to the Statute in that behalfe made.</p>
+            <p>And foraſmuch as the City generally is more full of able and ſufficient men to beare the Office of Conſta<g ref="char:EOLhyphen"/>ble, then hath beene heretofore, It is therefore enacted by the authoritie aforeſaid, That if any Conſtable hereafter be choſen and ſworne, and ſhall haue ſerued one yeere in precincts where they haue formerly been choſen two yeers before, and that there bee ſufficient choice of men in the precincts, Then the Inhabitants within the ſeuerall precincts may haue libertie at their pleaſure, to excuſe and diſpenſe with that Conſtable for his ſecond yeers ſeruice: prouided, That he pay towards the neceſſary charges and ſeruice of the ward, in any extraordinary accidents or occaſions, ſuch ſumme of money, and not exceeding fiue pounds, as by the Alderman, his Deputy, and common Councell men or the greater part of them ſhall be appointed, the ſame to be paid to to the Church-wardens of the Pariſh wherein the ſaid precinct is, to the vſe of the ward, and to be called for by the Alderman, or his Deputie or Deputies, when occaſion ſhall require.</p>
+            <p>And it is further enacted by the authority aforeſaid, That ſuch perſons as now ſerue, or hereafter ſhall be choſen to the place of common Councell men, in the ſeuerall wards of this City and Liberties thereof, if they ſhall alter their habitations from the ward wherein they were ſo choſen to another ward, that then they ſhall not be choſen in that ſecond Ward, to inferiour place of Scauenger or Conſtable, nor be returned by the Wardmote Inqueſt, to be of the grand or petty Iuries, if there ſhall be other able and ſufficient men to ſerue and ſupply thoſe places and ſeruices; any thing heretofore vſed to the contrary notwithſtanding.</p>
+            <closer>G<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the King</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by Robert Young, Printer to the Honou<g ref="char:EOLhyphen"/>rable Citie of LONDON, Anno Dom. 1640.</p>
+            <pb facs="tcp:151050:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:151050:3" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
